@@ -1,0 +1,16 @@
+{
+    "window": {
+        "name": "poi",
+        "flash_position": [ //窗口中游戏页面的位置 格式: px1 py1 px2 py2
+            0, 29, 800, 509
+        ],
+        "whole_position": [  //窗口的位置 格式：px py width height
+            10, 40, 1350, 539
+        ],
+        "frame_scale": 0.5 // 图像缩放比例
+    },
+    "flag": {
+        "flag_fix_window": 0,
+        "flag_use_bitblt": 0
+    }
+}
